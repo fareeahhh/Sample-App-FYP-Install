@@ -1,7 +1,5 @@
 # Sample App FYP Installation Guide
 
-UPDATE ON 8:51 PM
-
 ## Description
 
 The Sample App FYP (Final Year Project) is a software application designed to demonstrate key functionalities and techniques typically required for final year university projects. This repository contains the necessary installation scripts and guidelines to set up the application on your local machine. The project is built using common web development technologies, potentially including HTML, CSS, JavaScript, and a backend technology like Node.js or Python Flask.
@@ -108,4 +106,5 @@ Contributions to the Sample App FYP are welcome! Here’s how you can contribute
 
 By following these guidelines, you can contribute effectively and help improve the Sample App FYP. Thank you for your contributions!
 ```
+
 This README is maintained with the original structure and style, ensuring the content remains current with the repository's status as of the last commit. No changes have been made as no specifics were provided in the commit message.
