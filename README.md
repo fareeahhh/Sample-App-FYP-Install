@@ -1,6 +1,6 @@
 # Sample App FYP Installation Guide
 
-Update on 8:22 PM
+Update on 8:32 PM
 
 ## Description
 
